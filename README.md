@@ -1,3 +1,4 @@
+Unfortnately the previous profile was stoled. New github profile since Dec22
 - 👋 Hi, I’m @mirosadev
 - 👀 I’m interested in Software Engineer, Artificial Intelligence
 - 🌱 I’m currently learning Devops
